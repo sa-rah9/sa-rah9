@@ -1,13 +1,18 @@
-![MasterHead](https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ)
+![MasterHead](https://raw.githubusercontent.com/majdimokhtar/github-images/main/newbannerjs.gif)
 <h1 align="center"> 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&pause=1000&color=F2F724&random=false&width=435&lines=Hi+there+i'm+Sara+George)](https://git.io/typing-svg)
 
 </h1>
 
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="left">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&pause=1000&color=16C3FF&random=false&width=435&lines=Passionate+front-end+developer)](https://git.io/typing-svg)
+
+</h3>
 <!-- <img align="right" alt="Coding" width="600" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif"> -->
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ">
 - 🔭 My current project (https://sarah-dinemart-project.vercel.app/)
 
 - 🌱 I’m currently learning *Python*
@@ -16,7 +21,7 @@
 
 - 📫 How to reach me *sarah.geo7@gmail.com*
 
-- ⚡ Fun fact *"Did you know? The programming language Python was named after the British comedy show 'Monty Python's Flying Circus.' Guido van Rossum, Python's creator, was a fan of the show and wanted a short, unique, and slightly mysterious name for his new language. Thus,
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
